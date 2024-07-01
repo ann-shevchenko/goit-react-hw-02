@@ -1,0 +1,7 @@
+.feedbackList {
+    margin-top: 30px;
+    text-align: left;
+    li{
+        margin-bottom: 15px;
+    }
+}
